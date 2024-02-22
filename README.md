@@ -1,5 +1,7 @@
 # aianalysis
 
+Data Analysis web app capable of transforming statistical data into meaningful insights through machine learning algorithms.
+
 Proyecto integrador
 
 ## Setup
